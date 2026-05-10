@@ -1,3 +1,4 @@
+import type { JSX } from "react";
 import clsx from "clsx";
 
 type BoundedProps<T extends keyof JSX.IntrinsicElements = "section"> =
