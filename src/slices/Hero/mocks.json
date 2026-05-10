@@ -1,0 +1,101 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "heading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Factor"
+            }
+          }
+        ]
+      },
+      "subheading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Deserunt fugiat laborum incididunt cillum irure ipsum esse aliqua voluptate enim ea aliquip adipisicing et cillum. Labore cupidatat sunt laborum ullamco magna sunt aliquip enim ad minim laborum nisi do magna."
+            }
+          }
+        ]
+      },
+      "body": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Elit laboris consectetur eu nulla magna adipisicing nostrud in deserunt qui minim veniam amet. Id cillum tempor deserunt exercitation ea qui reprehenderit ut quis enim reprehenderit magna eu."
+            }
+          }
+        ]
+      },
+      "button_text": {
+        "__TYPE__": "FieldContent",
+        "value": "final",
+        "type": "Text"
+      },
+      "button_link": {
+        "key": "f2b854ac-a541-4e6f-b1ce-d8f8db3b59c3",
+        "__TYPE__": "LinkContent",
+        "value": {
+          "__TYPE__": "ExternalLink",
+          "url": "https://prismic.io",
+          "text": "unless"
+        }
+      },
+      "cons_image": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04",
+          "width": 4000,
+          "height": 4000
+        },
+        "url": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04",
+        "width": 4000,
+        "height": 4000,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "alt": "who",
+        "credits": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "second_heading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Faster"
+            }
+          }
+        ]
+      },
+      "second_body": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Magna occaecat veniam sit irure."
+            }
+          }
+        ]
+      }
+    },
+    "items": []
+  }
+]

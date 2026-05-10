@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Cheese"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Magna mollit minim aliquip adipisicing magna eu aute Lorem ad et officia incididunt. Aliqua veniam consectetur commodo minim laboris dolor sit exercitation mollit sit in. Et ullamco non irure reprehenderit duis id fugiat do adipisicing."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
