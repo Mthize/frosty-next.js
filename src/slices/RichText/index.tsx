@@ -1,7 +1,7 @@
 import type { Content } from "@prismicio/client";
 import { PrismicRichText, type SliceComponentProps } from "@prismicio/react";
 
-type RichTextProps = SliceComponentProps<Content.RichTextSlice>;
+type RichTextProps = SliceComponentProps<any>;
 
 const RichText = ({ slice }: RichTextProps) => {
   return (

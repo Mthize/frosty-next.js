@@ -15,7 +15,7 @@ gsap.registerPlugin(useGSAP, ScrollTrigger);
 
 type SkyDiveProps = {
   sentence: string | null;
-  flovor: Content.SkyDiveSliceDefaultPrimary["flavor"];
+  flavor: Content.SkyDiveSliceDefaultPrimary["flavor"];
 };
 
 export default function Scene({ sentence, flavor }: SkyDiveProps) {

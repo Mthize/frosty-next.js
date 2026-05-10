@@ -1,7 +1,7 @@
 import clsx from "clsx";
 
-type BoundedProps = {
-  as?: string;
+type BoundedProps = React.ComponentPropsWithoutRef<"section"> & {
+  as?: "section" | "div";
   className?: string;
   children?: React.ReactNode;
 };
